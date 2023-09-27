@@ -1,0 +1,2 @@
+api (backend folder) : run 'npm' command and it will install all the dependencies in package.json file.
+client (frontend folder): run 'npm' command and it will install all the dependencies in package.json file.
